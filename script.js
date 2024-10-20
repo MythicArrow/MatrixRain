@@ -7,7 +7,7 @@ canvas.height = window.innerHeight;
 
 // Characters used in the matrix rain
 const matrixChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()-=+<>?{}♤♡◇♧》《¡¿¤☆▪︎';
-const fontSize = 14;
+const fontSize = 17;
 const columns = canvas.width / fontSize;
 
 // Create an array of drops for each column
