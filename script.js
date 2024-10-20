@@ -21,7 +21,7 @@ function draw() {
     
     // Set the text color and font size
     ctx.fillStyle = '#0f0'; // Matrix green
-    ctx.font = fontSize + 'px monospace';
+    ctx.font = fontSize + 'Quantico';
 
     // Loop over the drops array and draw characters
     for (let i = 0; i < drops.length; i++) {
